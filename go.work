@@ -4,4 +4,5 @@ use (
 	./blinky
 	./gpio
 	./gpio_interrupt
+	./usb_cdc
 )
